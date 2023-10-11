@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Newest Game"
-summary: "Lead Programmer and Designer"
+title:  "Andromeda Quest"
+summary: "Programmer and Art Director"
 date:   2022-10-09 15:39:40
-preview: /assets/postpreview.png
+preview: /assets/AQ/aq_title.png
 ---
 
-![Picture 1](/assets/fullsize.png)
+![Picture 1](/assets/AQ/bb.png)
 
 Here's some impressive stuff I did:
 
