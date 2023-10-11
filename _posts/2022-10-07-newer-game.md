@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Newer Game"
-summary: "Senior Technical Designer"
+title:  "Slay the Spire Recreation"
+summary: "Software Architect, Lead Programmer"
 date:   2022-10-07 15:39:40
-preview: /assets/postpreview.png
+preview: /assets/STS/tt.png
 ---
 
-![Picture 1](/assets/fullsize.png)
+![Picture 1](/assets/STS/tb.png)
 
 Put down info here, either in bullets or paragraphs.
