@@ -6,7 +6,7 @@ date:   2022-10-09 15:39:40
 preview: /assets/AQ/aq_title.png
 ---
 
-![Picture 1](/assets/AQ/bb.png)
+![Picture 1](/assets/AQ/bb.JPG)
 
 Here's some impressive stuff I did:
 
